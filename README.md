@@ -1,1 +1,3 @@
-# react-project-simple
+### react-project
+#  error handling 
+#  props handling
